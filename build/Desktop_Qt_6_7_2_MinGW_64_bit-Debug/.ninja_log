@@ -1,0 +1,27 @@
+# ninja log v6
+6	493	7499868248259524	untitled2_autogen/timestamp	df1fc659d8903440
+6	493	7499868248259524	untitled2_autogen/mocs_compilation.cpp	df1fc659d8903440
+6	493	7499868248259524	C:/Users/user/Documents/untitled2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled2_autogen/timestamp	df1fc659d8903440
+6	493	7499868248259524	C:/Users/user/Documents/untitled2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled2_autogen/mocs_compilation.cpp	df1fc659d8903440
+498	2074	7499868248647725	CMakeFiles/untitled2.dir/untitled2_autogen/mocs_compilation.cpp.obj	902bd0fb4cd20ff6
+498	2091	7499868248657703	CMakeFiles/untitled2.dir/main.cpp.obj	565280e51dadb7ad
+499	2273	7499868248657703	CMakeFiles/untitled2.dir/mainwindow.cpp.obj	b1620a28ba9f3459
+2273	2503	7499868266394661	untitled2.exe	bd8dc1095f770a79
+14	99	7499870675655297	untitled2_autogen/timestamp	df1fc659d8903440
+14	99	7499870675655297	untitled2_autogen/mocs_compilation.cpp	df1fc659d8903440
+14	99	7499870675655297	C:/Users/user/Documents/untitled2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled2_autogen/timestamp	df1fc659d8903440
+14	99	7499870675655297	C:/Users/user/Documents/untitled2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled2_autogen/mocs_compilation.cpp	df1fc659d8903440
+100	1885	7499870676507424	CMakeFiles/untitled2.dir/mainwindow.cpp.obj	b1620a28ba9f3459
+1885	2047	7499870694358500	untitled2.exe	bd8dc1095f770a79
+10	95	7499870940991784	untitled2_autogen/timestamp	df1fc659d8903440
+10	95	7499870940991784	untitled2_autogen/mocs_compilation.cpp	df1fc659d8903440
+10	95	7499870940991784	C:/Users/user/Documents/untitled2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled2_autogen/timestamp	df1fc659d8903440
+10	95	7499870940991784	C:/Users/user/Documents/untitled2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled2_autogen/mocs_compilation.cpp	df1fc659d8903440
+95	1866	7499870941837596	CMakeFiles/untitled2.dir/mainwindow.cpp.obj	b1620a28ba9f3459
+1866	2032	7499870959547824	untitled2.exe	bd8dc1095f770a79
+19	125	7499882918737812	untitled2_autogen/timestamp	df1fc659d8903440
+19	125	7499882918737812	untitled2_autogen/mocs_compilation.cpp	df1fc659d8903440
+19	125	7499882918737812	C:/Users/user/Documents/untitled2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled2_autogen/timestamp	df1fc659d8903440
+19	125	7499882918737812	C:/Users/user/Documents/untitled2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled2_autogen/mocs_compilation.cpp	df1fc659d8903440
+125	2164	7499882919801500	CMakeFiles/untitled2.dir/mainwindow.cpp.obj	b1620a28ba9f3459
+2165	3313	7499882940192293	untitled2.exe	bd8dc1095f770a79
